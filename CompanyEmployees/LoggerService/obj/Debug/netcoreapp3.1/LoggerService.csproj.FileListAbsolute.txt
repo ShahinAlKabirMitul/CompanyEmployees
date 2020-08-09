@@ -1,0 +1,12 @@
+E:\Mitul\CompanyEmployees\CompanyEmployees\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.deps.json
+E:\Mitul\CompanyEmployees\CompanyEmployees\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.dll
+E:\Mitul\CompanyEmployees\CompanyEmployees\LoggerService\bin\Debug\netcoreapp3.1\LoggerService.pdb
+E:\Mitul\CompanyEmployees\CompanyEmployees\LoggerService\bin\Debug\netcoreapp3.1\Contracts.dll
+E:\Mitul\CompanyEmployees\CompanyEmployees\LoggerService\bin\Debug\netcoreapp3.1\Contracts.pdb
+E:\Mitul\CompanyEmployees\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csprojAssemblyReference.cache
+E:\Mitul\CompanyEmployees\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfoInputs.cache
+E:\Mitul\CompanyEmployees\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.AssemblyInfo.cs
+E:\Mitul\CompanyEmployees\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CopyComplete
+E:\Mitul\CompanyEmployees\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
+E:\Mitul\CompanyEmployees\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb
+E:\Mitul\CompanyEmployees\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CoreCompileInputs.cache

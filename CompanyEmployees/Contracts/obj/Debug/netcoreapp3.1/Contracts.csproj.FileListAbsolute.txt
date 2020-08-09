@@ -1,0 +1,9 @@
+E:\Mitul\CompanyEmployees\CompanyEmployees\Contracts\bin\Debug\netcoreapp3.1\Contracts.deps.json
+E:\Mitul\CompanyEmployees\CompanyEmployees\Contracts\bin\Debug\netcoreapp3.1\Contracts.dll
+E:\Mitul\CompanyEmployees\CompanyEmployees\Contracts\bin\Debug\netcoreapp3.1\Contracts.pdb
+E:\Mitul\CompanyEmployees\CompanyEmployees\Contracts\obj\Debug\netcoreapp3.1\Contracts.csprojAssemblyReference.cache
+E:\Mitul\CompanyEmployees\CompanyEmployees\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.CoreCompileInputs.cache
+E:\Mitul\CompanyEmployees\CompanyEmployees\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfoInputs.cache
+E:\Mitul\CompanyEmployees\CompanyEmployees\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfo.cs
+E:\Mitul\CompanyEmployees\CompanyEmployees\Contracts\obj\Debug\netcoreapp3.1\Contracts.dll
+E:\Mitul\CompanyEmployees\CompanyEmployees\Contracts\obj\Debug\netcoreapp3.1\Contracts.pdb
