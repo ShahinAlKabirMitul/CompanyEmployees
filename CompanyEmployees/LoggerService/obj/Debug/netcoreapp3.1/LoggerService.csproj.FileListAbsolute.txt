@@ -10,3 +10,5 @@ E:\Mitul\CompanyEmployees\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1
 E:\Mitul\CompanyEmployees\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.dll
 E:\Mitul\CompanyEmployees\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.pdb
 E:\Mitul\CompanyEmployees\CompanyEmployees\LoggerService\obj\Debug\netcoreapp3.1\LoggerService.csproj.CoreCompileInputs.cache
+E:\Mitul\CompanyEmployees\CompanyEmployees\LoggerService\bin\Debug\netcoreapp3.1\Entities.dll
+E:\Mitul\CompanyEmployees\CompanyEmployees\LoggerService\bin\Debug\netcoreapp3.1\Entities.pdb

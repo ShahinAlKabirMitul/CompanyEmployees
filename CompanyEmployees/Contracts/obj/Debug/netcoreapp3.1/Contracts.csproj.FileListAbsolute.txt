@@ -7,3 +7,6 @@ E:\Mitul\CompanyEmployees\CompanyEmployees\Contracts\obj\Debug\netcoreapp3.1\Con
 E:\Mitul\CompanyEmployees\CompanyEmployees\Contracts\obj\Debug\netcoreapp3.1\Contracts.AssemblyInfo.cs
 E:\Mitul\CompanyEmployees\CompanyEmployees\Contracts\obj\Debug\netcoreapp3.1\Contracts.dll
 E:\Mitul\CompanyEmployees\CompanyEmployees\Contracts\obj\Debug\netcoreapp3.1\Contracts.pdb
+E:\Mitul\CompanyEmployees\CompanyEmployees\Contracts\bin\Debug\netcoreapp3.1\Entities.dll
+E:\Mitul\CompanyEmployees\CompanyEmployees\Contracts\bin\Debug\netcoreapp3.1\Entities.pdb
+E:\Mitul\CompanyEmployees\CompanyEmployees\Contracts\obj\Debug\netcoreapp3.1\Contracts.csproj.CopyComplete

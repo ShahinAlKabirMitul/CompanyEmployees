@@ -1,21 +1,26 @@
 {
   "version": 2,
-  "dgSpecHash": "rl5PUKrTW0mj3BwUuUVtMvNeq6H7b7p7i0WY8wl3lzfI8R8eMlVaeRfA3Hye3BsFb9jbxtnoZIFl4HAHbKjbyQ==",
+  "dgSpecHash": "JQnsI5yoa76tGZHth1b+RiTFvNbjMQEt+UrweQr/1HLRlY5P6Tr0yr695pAkyPX+t0N2Gk8fpAwyy4hyimi5ug==",
   "success": true,
   "projectFilePath": "E:\\Mitul\\CompanyEmployees\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.configuration\\2.1.0\\microsoft.extensions.configuration.2.1.0.nupkg.sha512",
-    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.1.0\\microsoft.extensions.configuration.abstractions.2.1.0.nupkg.sha512",
-    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.configuration.binder\\2.1.0\\microsoft.extensions.configuration.binder.2.1.0.nupkg.sha512",
-    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
-    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.logging\\2.1.0\\microsoft.extensions.logging.2.1.0.nupkg.sha512",
-    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.1.0\\microsoft.extensions.logging.abstractions.2.1.0.nupkg.sha512",
-    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.options\\2.1.0\\microsoft.extensions.options.2.1.0.nupkg.sha512",
-    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.primitives\\2.1.0\\microsoft.extensions.primitives.2.1.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.0-preview.7.20365.15\\microsoft.entityframeworkcore.5.0.0-preview.7.20365.15.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.0-preview.7.20365.15\\microsoft.entityframeworkcore.abstractions.5.0.0-preview.7.20365.15.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\5.0.0-preview.7.20365.15\\microsoft.entityframeworkcore.analyzers.5.0.0-preview.7.20365.15.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\5.0.0-preview.7.20364.11\\microsoft.extensions.caching.abstractions.5.0.0-preview.7.20364.11.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.caching.memory\\5.0.0-preview.7.20364.11\\microsoft.extensions.caching.memory.5.0.0-preview.7.20364.11.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.0-preview.7.20364.11\\microsoft.extensions.dependencyinjection.5.0.0-preview.7.20364.11.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0-preview.7.20364.11\\microsoft.extensions.dependencyinjection.abstractions.5.0.0-preview.7.20364.11.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.logging\\5.0.0-preview.7.20364.11\\microsoft.extensions.logging.5.0.0-preview.7.20364.11.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0-preview.7.20364.11\\microsoft.extensions.logging.abstractions.5.0.0-preview.7.20364.11.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.options\\5.0.0-preview.7.20364.11\\microsoft.extensions.options.5.0.0-preview.7.20364.11.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0-preview.7.20364.11\\microsoft.extensions.primitives.5.0.0-preview.7.20364.11.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\nlog\\4.6.4\\nlog.4.6.4.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\nlog.extensions.logging\\1.5.1\\nlog.extensions.logging.1.5.1.nupkg.sha512",
-    "C:\\Users\\Administrator\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\system.runtime.compilerservices.unsafe\\4.5.0\\system.runtime.compilerservices.unsafe.4.5.0.nupkg.sha512"
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.collections.immutable\\5.0.0-preview.7.20364.11\\system.collections.immutable.5.0.0-preview.7.20364.11.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0-preview.7.20364.11\\system.componentmodel.annotations.5.0.0-preview.7.20364.11.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.0-preview.7.20364.11\\system.diagnostics.diagnosticsource.5.0.0-preview.7.20364.11.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0-preview.7.20364.11\\system.runtime.compilerservices.unsafe.5.0.0-preview.7.20364.11.nupkg.sha512"
   ],
   "logs": []
 }
