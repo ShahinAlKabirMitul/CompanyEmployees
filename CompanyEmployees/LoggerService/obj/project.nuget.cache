@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "JQnsI5yoa76tGZHth1b+RiTFvNbjMQEt+UrweQr/1HLRlY5P6Tr0yr695pAkyPX+t0N2Gk8fpAwyy4hyimi5ug==",
+  "dgSpecHash": "rLZSEAuA8Cbhc8FyfSMhN55W1BpwAlmGuMktIGT4pGK9yNBdJmynCdLHpGO1yKq6jLjICRtFSAIOmIq5gPdQTw==",
   "success": true,
   "projectFilePath": "E:\\Mitul\\CompanyEmployees\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
   "expectedPackageFiles": [
@@ -15,6 +15,7 @@
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0-preview.7.20364.11\\microsoft.extensions.logging.abstractions.5.0.0-preview.7.20364.11.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.options\\5.0.0-preview.7.20364.11\\microsoft.extensions.options.5.0.0-preview.7.20364.11.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0-preview.7.20364.11\\microsoft.extensions.primitives.5.0.0-preview.7.20364.11.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\nlog\\4.6.4\\nlog.4.6.4.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\nlog.extensions.logging\\1.5.1\\nlog.extensions.logging.1.5.1.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\system.collections.immutable\\5.0.0-preview.7.20364.11\\system.collections.immutable.5.0.0-preview.7.20364.11.nupkg.sha512",
