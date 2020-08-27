@@ -74,7 +74,7 @@ namespace CompanyEmployees
 
             app.UseEndpoints(endpoints =>
             {
-                endpoints.MapControllers();
+                endpoints.MapDefaultControllerRoute();
             });
 
         }
