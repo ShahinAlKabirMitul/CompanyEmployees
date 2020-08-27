@@ -4,12 +4,14 @@ using System.Linq;
 using System.Threading.Tasks;
 using AutoMapper;
 using Contracts;
+using Entities.DataTransferObjects;
+using Entities.Model;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CompanyEmployees.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/companies/{companyId}/employees")]
     [ApiController]
     public class EmployeesController : ControllerBase
     {
@@ -35,7 +37,8 @@ namespace CompanyEmployees.Controllers
             else
             {
                 var employeesFromDb = _repository.Employee.GetEmployees(companyId, trackChanges: false);
-                return Ok(employeesFromDb);
+                var employeeDto = _mapper.Map<IEnumerable<EmployeeDto>>(employeesFromDb);
+                return Ok(employeeDto);
             }
         }
 
