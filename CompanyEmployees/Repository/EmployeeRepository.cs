@@ -3,6 +3,7 @@ using Entities;
 using Entities.Model;
 using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace Repository
@@ -11,9 +12,9 @@ namespace Repository
     {
         public EmployeeRepository(RepositoryContext repositoryContext) : base(repositoryContext) { }
 
-        public IEnumerable<Company> GetAllCompanies(bool trackChanges)
+        public IEnumerable<Employee> GetEmployees(Guid companyId, bool trackChanges)
         {
-            throw new NotImplementedException();
+           return FindByCondition(s => s.CompanyId.Equals(companyId), trackChanges).OrderBy(s => s.Name);
         }
     }
 }
