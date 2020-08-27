@@ -18,8 +18,8 @@ namespace CompanyEmployees.Controllers
         private readonly IRepositoryManager _repository;
         private readonly ILoggerManager _logger;
         private readonly IMapper _mapper;
-        
-        public EmployeesController(IRepositoryManager repositoryManager,ILoggerManager logger, IMapper mapper)
+
+        public EmployeesController(IRepositoryManager repositoryManager, ILoggerManager logger, IMapper mapper)
         {
             _repository = repositoryManager;
             _logger = logger;
@@ -29,8 +29,8 @@ namespace CompanyEmployees.Controllers
         public IActionResult GetEmployeesForCompany(Guid companyId)
         {
             var company = _repository.Company.GetCompany(companyId, trackChanges: false);
-            if (company == null) 
-            { 
+            if (company == null)
+            {
                 _logger.LogInfo($"Company with id: {companyId} doesn't exist in the database.");
                 return NotFound();
             }
@@ -40,6 +40,26 @@ namespace CompanyEmployees.Controllers
                 var employeeDto = _mapper.Map<IEnumerable<EmployeeDto>>(employeesFromDb);
                 return Ok(employeeDto);
             }
+        }
+
+        [HttpGet("{id}")]
+        public IActionResult GetEmployeeForCompany(Guid companyId, Guid id)
+        {
+            var company = _repository.Company.GetCompany(companyId, trackChanges: false);
+            if (company == null)
+            {
+                _logger.LogInfo($"Company with id: {companyId} doesn't exist in the database.");
+                return NotFound();
+            }
+
+            var employeeDb = _repository.Employee.GetEmployee(companyId, id, trackChanges: false);
+            if (employeeDb == null) 
+            {
+                _logger.LogInfo($"Employee with id: {id} doesn't exist in the database.");
+                return NotFound();
+            }
+            var employee = _mapper.Map<EmployeeDto>(employeeDb);
+            return Ok(employee);
         }
 
     }
